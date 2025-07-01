@@ -8,3 +8,5 @@ open git-bash
 
 1) git init - Initializes a git repository
 2) git status
+3) git add <specific file> or . <All>
+4) git commit -m "Message" - Commits to the repository
